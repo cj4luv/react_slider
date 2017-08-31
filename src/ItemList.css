@@ -1,0 +1,12 @@
+.slider_contianer{
+  margin: 0 auto;
+  width: 100%;
+  color: #333;
+  /*background: #419be0;*/
+}
+
+.inner_slider {
+  height: 355px;
+  background-color: white;
+  overflow: hidden;
+}
